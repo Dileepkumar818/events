@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.eventImg {
+  width: 100%;
+}
+
+.event-button {
+  background-color: transparent;
+  width: 290px;
+  border: none;
+}
+
+.list {
+  margin-bottom: 10px;
+}
+
+.event-head {
+  font-size: 25px;
+  margin-left: 8px;
+  color: #ffffff;
+  margin-top: -3px;
+  font-weight: 600;
+}
+
+.event-para {
+  font-size: 15px;
+  margin-left: 8px;
+  margin-top: -15px;
+  color: #ffffff;
+}

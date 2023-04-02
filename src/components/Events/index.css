@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+}
+.event-container {
+  background-color: #64748b;
+  padding: 30px;
+  background-color: #64748b;
+  width: 50%;
+}
+
+.list-container {
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+}
+
+.status-container {
+  width: 50%;
+  flex-direction: column;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #ffffff;
+}
